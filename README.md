@@ -4,6 +4,6 @@
 
 Welcome! This repository is designed for humanities scholars, students, and enthusiasts who want to explore Buddhist texts using computational methods. Our goal is to provide a gentle introduction to text analysis with Python, even if you have little to no prior programming experience. We start with the fundamentals, such as the Bag-of-Words (BoW) model, and will gradually build up to more advanced techniques. 
 
-본 튜토리얼은 2025년 6월 1일에 시작된 불교 텍스트 분석 모임에서 함께 만들어가고 있습니다. 이 모임에 관심 있으신 분은 songi113@hanmail.net으로 이메일 주세요!
+본 튜토리얼은 2025년 6월 1일에 시작된 불교 텍스트 분석 모임에서 함께 만들어가고 있습니다. 이 모임에 관심 있으신 분은 songi113@hanmail.net으로 이메일 주세요! (그 외에 해당 튜토리얼의 보완해야 될 점, 추가했으면 하는 부분 등 편하게 메일 주세요)
 
 We're actively building this tutorial alongside the Buddhist Text Analysis Meeting, which commenced on June 1, 2025. If you're interested in joining our group, please email us at songi113@hanmail.net!
