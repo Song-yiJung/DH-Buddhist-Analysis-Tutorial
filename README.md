@@ -10,14 +10,15 @@ We're actively building this tutorial alongside the Buddhist Text Analysis Meeti
 
 ---
 
-💻 튜토리얼 실습 방법 (How to Use This Tutorial)
+# 💻 튜토리얼 실습 방법 (How to Use This Tutorial)
+
 이 튜토리얼은 Google Colab 환경에서 직접 코드를 실행하며 학습하도록 만들어졌습니다. GitHub에 처음 오신 분들도 아래 단계를 따라 하시면 누구나 쉽게 실습에 참여할 수 있습니다.
 
 This tutorial is designed for hands-on learning by running code directly in the Google Colab environment. Even if you're new to GitHub, you can easily participate by following the steps below.
 
-시작 전 준비물: Google 계정 (A Google Account is required.)
+## 시작 전 준비물: Google 계정 (A Google Account is required.)
 
-1단계: 실습 파일(Colab 노트) 찾기 (Step 1: Find the Tutorial File)
+### 1단계: 실습 파일(Colab 노트) 찾기 (Step 1: Find the Tutorial File)
 📂 이 페이지(레포지토리)에서 아래로 스크롤하거나 파일 목록을 살펴보면, 파일 이름이 .ipynb로 끝나는 파일들이 있습니다. 이것이 바로 우리가 실습할 Colab 노트입니다.
 
 1_파이썬과_데이터구조_기초.ipynb
@@ -25,12 +26,12 @@ This tutorial is designed for hands-on learning by running code directly in the 
 (이후 튜토리얼 파일들...)
 On this repository page, scroll down or look at the file list. You will find files ending with the .ipynb extension. These are the Colab notebooks for our tutorial.
 
-2단계: Colab에서 파일 열기 (Step 2: Open the File in Colab)
+### 2단계: Colab에서 파일 열기 (Step 2: Open the File in Colab)
 🖱️ 원하는 튜토리얼 .ipynb 파일을 클릭하세요. 파일 내용이 보이면, 페이지 상단에 있는 "Open in Colab" 배지(버튼)를 클릭합니다.
 
 Click on the .ipynb file you wish to start. Once you see the content of the file, click on the "Open in Colab" badge/button located at the top of the page.
 
-3단계: 내 드라이브에 사본 저장하기 (Step 3: Save a Copy to Your Drive) - [매우 중요!]
+### 3단계: 내 드라이브에 사본 저장하기 (Step 3: Save a Copy to Your Drive) - [매우 중요!]
 ✨ Colab으로 파일이 열리면, 가장 먼저 자신만의 복사본을 만들어야 합니다. 이렇게 해야 자유롭게 코드를 수정하고 실행 결과를 저장할 수 있습니다.
 
 메뉴에서 **파일 (File) -> Drive에 사본 저장 (Save a copy in Drive)**을 클릭하세요.
@@ -39,7 +40,7 @@ Once the file opens in Colab, the very first thing you should do is create your 
 
 In the menu, click on File -> Save a copy in Drive. A new tab will open with your personal copy of the notebook.
 
-4. 단계: 코드 실행하며 실습하기 (Step 4: Run the Code and Practice)
+### 4. 단계: 코드 실행하며 실습하기 (Step 4: Run the Code and Practice)
 ▶️ 이제 선생님만의 튜토리얼 노트가 생겼습니다. Colab 노트는 '셀(Cell)'이라는 블록 단위로 구성되어 있습니다.
 
 코드 셀 실행: 실행하고 싶은 코드 셀을 마우스로 클릭한 후, 셀 왼쪽에 나타나는 **'재생' 버튼(▶️)**을 누르거나, 키보드에서 Shift + Enter 키를 동시에 누르면 됩니다.
