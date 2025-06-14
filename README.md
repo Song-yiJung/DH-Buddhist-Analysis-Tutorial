@@ -8,7 +8,7 @@ Welcome! This repository is designed for humanities scholars, students, and enth
 
 We're actively building this tutorial alongside the Buddhist Text Analysis Meeting, which commenced on June 1, 2025. If you're interested in joining our group, please email us at songi113@hanmail.net!
 
-네, GitHub와 Colab 사용이 익숙하지 않은 인문학 연구자분들을 위해, README 파일에 추가할 수 있는 친절하고 상세한 실습 가이드를 작성해 드리겠습니다. 아래 텍스트를 README의 적절한 위치에 복사하여 붙여넣으시면 됩니다.
+---
 
 💻 튜토리얼 실습 방법 (How to Use This Tutorial)
 이 튜토리얼은 Google Colab 환경에서 직접 코드를 실행하며 학습하도록 만들어졌습니다. GitHub에 처음 오신 분들도 아래 단계를 따라 하시면 누구나 쉽게 실습에 참여할 수 있습니다.
